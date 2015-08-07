@@ -195,7 +195,7 @@ must be able to be modified.
 1. The user selects to edit the forum's labels and tags.
 2. The user makes their changes, and saves them.
 
-### 6.0 Moving or trashing a tagged thread
+### 7.0 Moving or trashing a tagged thread
 
 **Primary Actor:** A user with the forum moderation permission enabled.
 
